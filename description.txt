@@ -1,0 +1,55 @@
+Menu driven program which displays 
+	1.Singly linked list
+	2.Singly Circular linked list
+	3.Doubly linked list
+	4.Doubly circular linked list
+using generic class
+
+
+run program
+
+javac -d . SinglyLinkedList.java
+javac -d . DoublyLinkedList.java
+javac -d . DoublyCircularLinkedList.java
+javac -d . SinglyCircularLinkedList.java
+
+javac -d . sll.java
+javac -d . dll.java
+javac -d . dcll.java
+javac -d . scll.java
+
+javac Finalll.java
+java Finalll
+
+
+
+
+****************************************************
+Enter your choice:
+****************************************************
+1 : Singly Linked List
+2 : Doubly Linked List
+3 : Singly circular Linked List
+4 : Doubly circular Linked List
+0 : Exit
+****************************************************
+1
+.........SinglyLinkedList.........
+****************************************************
+Enter your choice
+****************************************************
+1 : Insert First
+2 : Insert Last
+3 : Delete First
+4 : Delete Last
+5 : Display
+6 : Count
+7 : insert at pos
+8 : delete at pos
+0 : Exit
+****************************************************
+1
+Enter the value
+23
+
+
